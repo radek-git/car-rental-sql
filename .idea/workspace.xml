@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79ff73f5-4e43-4e89-8375-c50e5abd8a4f" name="Default Changelist" comment="" />
+    <list default="true" id="79ff73f5-4e43-4e89-8375-c50e5abd8a4f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/console.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +43,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/eb8a0ff5-db92-472b-b13c-a68bd28a7c66/console.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -49,13 +52,9 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="das://eb8a0ff5-db92-472b-b13c-a68bd28a7c66/schema/radek_car_rental/table/rentals">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/console.sql">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -87,8 +86,13 @@
     <property name="DBE.Init.BalloonShown" value="true" />
     <property name="GoToClass.toSaveIncludeLibraries" value="true" />
     <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="$APPLICATION_CONFIG_DIR$/projects/pracownicy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="database.main2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Uzytkownik\.DataGrip2018.3\config\projects\car_rental" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -104,6 +108,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Database" order="0" visible="true" weight="0.21908316" />
       <window_info id="Favorites" order="1" side_tool="true" />
@@ -128,6 +133,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="das://eb8a0ff5-db92-472b-b13c-a68bd28a7c66/schema/radek_car_rental/table/rentals">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/eb8a0ff5-db92-472b-b13c-a68bd28a7c66/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -135,12 +147,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://eb8a0ff5-db92-472b-b13c-a68bd28a7c66/schema/radek_car_rental/table/rentals">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
